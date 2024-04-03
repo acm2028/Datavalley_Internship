@@ -3,7 +3,7 @@ package Assignment4;
 import java.sql.*;
 import java.util.*;
 class patientinfodetail {
-    
+
     static final String JDBC_URL = "jdbc:oracle:thin:@//localhost:1521/xe";
     static final String USERNAME = "Replace_with_your_Username";
     static final String PASSWORD = "Replace_with_your_password";
